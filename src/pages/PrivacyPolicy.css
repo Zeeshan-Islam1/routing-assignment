@@ -1,4 +1,4 @@
-/* Privacy.css */
+
 .privacy-policy-container {
     padding: 40px 20px;
     max-width: 900px;
@@ -41,8 +41,6 @@
   a:hover {
     text-decoration: underline;
   }
-  
-  /* Responsive styles for mobile screens */
   @media (max-width: 768px) {
     .privacy-policy-container {
       padding: 20px;
