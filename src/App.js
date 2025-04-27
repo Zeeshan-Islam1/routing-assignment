@@ -9,6 +9,7 @@ import { Contact } from "./pages/contact";
 import { Carrer } from "./pages/carres";
 import { Pricing } from "./pages/pricing";
 import Login from './pages/login';
+import { ErrorPage } from "./pages/errorPage"
 import AppLayout from "./components/layout/AppLayout";
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
     {
       path: '/',
       element : <AppLayout />,
+      errorElement: <ErrorPage />,
       children: [
         
           {
