@@ -14,7 +14,6 @@ import "./HoodieSlider.css";
 import hoodieImg from "../pages/images/main.jpg";
 import hoodieImg2 from "../pages/images/home2.jpg";
 import hoodieImg3 from "../pages/images/home3.avif";
-import hoodieImg4 from "../pages/images/home4.jpg";
 import hoodieImg5 from "../pages/images/home5.jpg";
 import hoodieImg6 from "../pages/images/home6.webp";
 import hoodieImg7 from "../pages/images/home7.webp";
@@ -25,7 +24,6 @@ import hoodieImg11 from "../pages/images/home11.webp";
 import hoodieImg12 from "../pages/images/home12.webp";
 import hoodieImg13 from "../pages/images/home13.webp";
 import hoodieImg15 from "../pages/images/home15.webp";
-import hoodieImg16 from "../pages/images/home16.webp";
 
 
 
@@ -41,8 +39,6 @@ import shoes1 from "../pages/images//shoes1.webp";
 import shoes2 from "../pages/images//shoes2.webp";
 import shoes3 from "../pages/images//shoes3.webp";
 
-
-import feedback from "../pages/images/feedback.webp";   
 
 
 
