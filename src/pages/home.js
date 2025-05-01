@@ -224,8 +224,8 @@ export const Home = () => {
         </Carousel.Item>
 
       </Carousel>
-      <hr />
     </Container>
+      <hr />
     <Container className="py-5">
     <Carousel>
     <h1
