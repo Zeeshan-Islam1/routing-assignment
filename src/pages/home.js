@@ -39,6 +39,8 @@ import shoes1 from "../pages/images//shoes1.webp";
 import shoes2 from "../pages/images//shoes2.webp";
 import shoes3 from "../pages/images//shoes3.webp";
 
+import Feedback from "../pages/images/feedback.webp";
+
 
 
 
@@ -383,7 +385,7 @@ export const Home = () => {
         {}
         <Col md={6}>
           <img
-            src={feedback}
+            src={Feedback}
             alt="BAPE Hoodie"
             style={{ width: "100%", height: "auto", borderRadius: "10px" }}
           />
